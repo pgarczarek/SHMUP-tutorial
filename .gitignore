@@ -1,0 +1,27 @@
+##################################
+# Unreal Engine generated files #
+################################
+
+*/Build
+*/Binaries
+*/DerivedDataCache
+*/Intermediate
+*/Saved
+*_BuiltData.uasset
+Content/StarterContent/
+Intermediate/
+Binaries/
+Saved/
+Content/KiteDemo/
+
+##################################
+# Visual Studio generated files #
+################################
+
+*.VC.db
+.vs/
+*.sln
+.sln
+Udemy_Ben_UE4__03_BE.sln
+Build/AllDesktop/FileOpenOrder/CookerOpenOrder.log
+*.log
